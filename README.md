@@ -54,3 +54,8 @@ THEN I am able to view posts and comments but I am prompted to log in again befo
 
 ## Deployment
 
+Git Repository - https://github.com/ErFaizanMemon/Tech-Blog-MVC
+
+Github Deployment - https://erfaizanmemon.github.io/Tech-Blog-MVC/
+
+Heroku Deployment - ![Alt text](image.png) - https://tech-blog-mvc-tech-1335871fc0c4.herokuapp.com/
